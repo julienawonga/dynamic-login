@@ -1,7 +1,7 @@
 # Login Button
 > This is a fun dynamic login button with a cool animation. It is made with HTML, CSS and JavaScript. It is a simple project but it is a good way to practice your skills.
 # Screenshots:
-![screenshot](./Assets/template.git)
+![screenshot](./Assets/template.gif)
 # Description:
 This projet is a fun dynamic login button with a cool animation. It is made with HTML, CSS and JavaScript. It is a simple project but it is a good way to practice your skills.
 # How to use:
